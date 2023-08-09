@@ -22,7 +22,7 @@
  * 
  * Example: Geometry = 6, Algebra = 7, Physics = 8
  * calculageAverage(6,7,8) -> Your average score is 7, Good job!"
- * test
+ * 
  */
 
 function calculateAverage() {
